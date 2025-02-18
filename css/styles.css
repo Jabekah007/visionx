@@ -103,7 +103,7 @@
     /* color-1(#f26522)
      * color-2(#035d5c)
      */
-    --color-1                      : hsla(19, 89%, 54%, 1);
+    --color-1                      : #f26321;
     --color-2                      : hsla(179, 94%, 19%, 1);
 
     /* theme color variations
